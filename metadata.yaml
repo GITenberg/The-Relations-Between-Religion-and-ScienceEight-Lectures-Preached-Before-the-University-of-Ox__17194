@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7213
     wikipedia: http://en.wikipedia.org/wiki/Frederick_Temple
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17194#The-Relations-Between-Religion-and-ScienceEight-Lectures-Preached-Before-the-University-of-Ox_
 gutenberg_issued: '2005-11-30'
 gutenberg_type: Text
 identifiers:
