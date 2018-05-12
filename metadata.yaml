@@ -1,0 +1,35 @@
+_repo: The-Relations-Between-Religion-and-ScienceEight-Lectures-Preached-Before-the-University-of-Ox__17194
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Temple, Frederick
+    birthdate: 1821
+    deathdate: 1902
+    gutenberg_agent_id: '7213'
+    url: http://www.gutenberg.org/2009/agents/7213
+    wikipedia: http://en.wikipedia.org/wiki/Frederick_Temple
+description: ''
+gutenberg_issued: '2005-11-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17194'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BL'
+- !lcsh 'Religion and science'
+tableOfContents: The origin and nature of scientific belief -- The origin and nature
+  of religious belief -- Apparent conflict between science and religion on free-will
+  -- Apparent conflict between religion and the doctrine of evolution -- Revelation
+  the means of developing and completing spiritual knowledge -- Aparent collision
+  between religion and the doctrine of evolution -- Apparent collision of science
+  with the claim to supernatural power -- The conclusion of the argument.
+title: 'The Relations Between Religion and Science
+
+  Eight Lectures Preached Before the University of Oxford in the Year 1884'
+url: http://www.gutenberg.org/ebooks/17194
