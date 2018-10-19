@@ -25,6 +25,7 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcc 'BL'
 - !lcsh 'Religion and science'
+- GITenberg
 tableOfContents: The origin and nature of scientific belief -- The origin and nature
   of religious belief -- Apparent conflict between science and religion on free-will
   -- Apparent conflict between religion and the doctrine of evolution -- Revelation
